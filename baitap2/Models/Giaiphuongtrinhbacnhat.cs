@@ -7,7 +7,7 @@ namespace baitap2.Models
 {
     public class Giaiphuongtrinhbacnhat
     {
-       
+        
             public double GiaiPTBac1(double a, double b)
             {
                 double x;
